@@ -1,16 +1,16 @@
 # image-generator
 This is a website that generates desired images through the use of unsplash API
 
-LANGUAGES USED:
+# Languages Used:
 
 HTML
 CSS
 Javascript
 
-API USED:
+# API Used:
 
 Unsplash API
 
-LINK
+# LINK
 
 https://chimhzimages.netlify.app
