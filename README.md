@@ -1,5 +1,6 @@
 # image-generator
-This is a website that generates desired images through the use of unsplash API
+ 
+This Web app was developed as a result of a problem I been facing when in need of free images. As a result, I stumbled upon unsplash website which offers free images for everyone including developers. However, the download process I never liked it and decided to develop this web app that consumes unsplah API for the images I want through search.
 
 # Languages Used:
 
