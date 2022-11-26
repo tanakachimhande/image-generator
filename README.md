@@ -14,4 +14,4 @@ Unsplash API
 
 # LINK
 
-https://chimhzimages.netlify.app
+ https://chimhztechyimages.netlify.app/
